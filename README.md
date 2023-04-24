@@ -1,3 +1,4 @@
+
 # Item server - Express TS
 
 This is a production-ready Node.js server built with the Express.js framework. It provides RESTful API endpoints for managing items, users, and authentication. This is the Exress-TS of the Item App - A generic app im building with various technologies including client and server side, using Vue, React, Express, Go and Pyhton.
@@ -69,16 +70,16 @@ Base 64 secret key
 #### Add Item
 
 ```http
-    POST /api/item
+  POST /api/item
 ```
 #### Update Item
 
 ```http
-    PUT /api/item
+  PUT /api/item
 ```
 #### Remove Item
 ```http
-    DELETE /api/item/${id}
+  DELETE /api/item/${id}
 ```
 
 
